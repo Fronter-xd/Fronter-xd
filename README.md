@@ -21,6 +21,18 @@ Building intelligent solutions with cutting-edge AI technology.
 
 ---
 
+### 📊 Stats
+
+<div align="center">
+
+| 🏆 Projects | ⭐ Open Source | 🌐 Portfolio |
+|:---:|:---:|:---:|
+| **7** | **100%** | [Live](https://rousan-raahat-portfolio.vercel.app) |
+
+</div>
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
