@@ -33,20 +33,13 @@ Building intelligent solutions with cutting-edge AI technology.
 
 ---
 
-### 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fronter-xd&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fronter-xd&theme=radical&hide_border=true&layout=compact)
-
----
-
-### 📫 Connect With Me
+### 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://rousan-raahat-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rousan-raahat-610424224/)
 [![GitHub](https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fronter-xd)
-[![Email](https://img.shields.io/badge/Email-rousanraahat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rousanraahat@gmail.com)
+
+📧 Contact: **rousanraahat@gmail.com**
 
 ---
 
